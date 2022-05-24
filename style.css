@@ -1,0 +1,39 @@
+body {
+    font-family: 'Dancing Script', cursive;
+
+    background-color:thistle ;
+}
+.header_div{
+    color: darkslategrey;
+    background: aquamarine;
+}
+
+.header_div p{
+    font-family: 'Grape Nuts', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto Serif', serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+    
+}
+
+.copy_right_footer{
+
+position: fixed;
+color: rgb(127, 123, 117);
+width: 100%;
+font-size: 18px;
+background-color: cornsilk;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(127, 123, 117);
+bottom: 0;
+}
